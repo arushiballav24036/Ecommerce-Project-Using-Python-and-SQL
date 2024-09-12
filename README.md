@@ -1,1 +1,6 @@
-# Ecommerce-Project-Using-Python-and-SQL
+# Ecommerce Project
+## Objective
+## Tools Used:
+## Source:
+## Insights
+## Conclusion
